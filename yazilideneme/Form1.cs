@@ -20,7 +20,7 @@ namespace yazilideneme
         private void Form1_Load(object sender, EventArgs e)
         {
             // git denemesi 16:16
-            // git denemesi 16:23 z
+            //git deniyoruz c
         }
     }
 }
